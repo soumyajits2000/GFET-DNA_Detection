@@ -1,4 +1,4 @@
-### DNA Detection using Graphene Field-Effect Transistors (GFETs)
+# DNA Detection using Graphene Field-Effect Transistors (GFETs)
 This project focuses on simulating and analyzing DNA detection using Graphene Field-Effect Transistors (GFETs). The goal is to investigate the potential of GFETs for DNA sensing and gain insights into their behavior and performance.
 
 ## Project Overview
